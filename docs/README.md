@@ -52,25 +52,25 @@ To Be Continued ...
 
 #### SQL
 
-[1. MySQL 笔记](https://docs.duoduo.center/%23/1.%20SQL/MySQL.md)
+[1. MySQL 笔记](https://docs.duoduo.center/#/1.%20SQL/MySQL.md)
 
 #### Spring
 
-[1. Spring Security 笔记](https://docs.duoduo.center/%23/2.%20Spring/Spring%20Security.md)
+[1. Spring Security 笔记](https://docs.duoduo.center/#/2.%20Spring/Spring%20Security.md)
 
 #### 多线程
 
-[1. JUC 笔记](https://docs.duoduo.center/%23/3.%20多线程/JUC.md)
+[1. JUC 笔记](https://docs.duoduo.center/#/3.%20多线程/JUC.md)
 
 #### 缓存
 
-[1. Redis](https://docs.duoduo.center/%23/4.%20Redis/Redis.md)
+[1. Redis](https://docs.duoduo.center/#/4.%20Redis/Redis.md)
 
 #### 分布式事务
 
-[1. 分布式事务 笔记](https://docs.duoduo.center/%23/5.%20分布式事务/分布式事务.md)
+[1. 分布式事务 笔记](https://docs.duoduo.center/#/5.%20分布式事务/分布式事务.md)
 
-[2. Seata 笔记](https://docs.duoduo.center/%23/5.%20分布式事务/Seata.md)
+[2. Seata 笔记](https://docs.duoduo.center/#/5.%20分布式事务/Seata.md)
 
 #### 轮子（待整理）
 
@@ -78,27 +78,27 @@ To Be Continued ...
 
 #### 消息队列
 
-[1. Kafka 笔记](https://docs.duoduo.center/%23/8.%20MQ/Kafka.md)
+[1. Kafka 笔记](https://docs.duoduo.center/#/8.%20MQ/Kafka.md)
 
-[2. RabbitMQ 笔记](https://docs.duoduo.center/%23/8.%20MQ/RabbitMQ.md)
+[2. RabbitMQ 笔记](https://docs.duoduo.center/#/8.%20MQ/RabbitMQ.md)
 
-[3. RocketMQ 笔记](https://docs.duoduo.center/%23/8.%20MQ/RocketMQ.md)
+[3. RocketMQ 笔记](https://docs.duoduo.center/#/8.%20MQ/RocketMQ.md)
 
 #### RUOYI（待整理）
 
 #### 设计模式
 
-[1. 策略模式 笔记](https://docs.duoduo.center/%23/10.%20设计模式/策略模式)
+[1. 策略模式 笔记](https://docs.duoduo.center/#/10.%20设计模式/策略模式)
 
-[2. 单例模式 笔记](https://docs.duoduo.center/%23/10.%20设计模式/单例模式)
+[2. 单例模式 笔记](https://docs.duoduo.center/#/10.%20设计模式/单例模式)
 
-[3. 工厂模式 笔记](https://docs.duoduo.center/%23/10.%20设计模式/工厂模式)
+[3. 工厂模式 笔记](https://docs.duoduo.center/#/10.%20设计模式/工厂模式)
 
-[4. 观察者模式 笔记](https://docs.duoduo.center/%23/10.%20设计模式/观察者模式)
+[4. 观察者模式 笔记](https://docs.duoduo.center/#/10.%20设计模式/观察者模式)
 
-[5. 模版模式 笔记](https://docs.duoduo.center/%23/10.%20设计模式/模版模式)
+[5. 模版模式 笔记](https://docs.duoduo.center/#/10.%20设计模式/模版模式)
 
-[6. 责任链模式 笔记](https://docs.duoduo.center/%23/10.%20设计模式/责任链模式)
+[6. 责任链模式 笔记](https://docs.duoduo.center/#/10.%20设计模式/责任链模式)
 
 #### Maven
 
@@ -106,17 +106,17 @@ To Be Continued ...
 
 #### 分布式监控
 
-[1. Zabbix 笔记](https://docs.duoduo.center/%23/12.%20Zabbix/Zabbix.md)
+[1. Zabbix 笔记](https://docs.duoduo.center/#/12.%20Zabbix/Zabbix.md)
 
 #### 分布式全流程日志追踪
 
-[1. MDC](https://docs.duoduo.center/%23/13.%20分布式全流程日志追踪/MDC.md)
+[1. MDC](https://docs.duoduo.center/#/13.%20分布式全流程日志追踪/MDC.md)
 
 #### 分布式文件存储系统
 
-[1. FastDFS 笔记](https://docs.duoduo.center/%23/14.%20分布式文件存储系统/FastDFS.md)
+[1. FastDFS 笔记](https://docs.duoduo.center/#/14.%20分布式文件存储系统/FastDFS.md)
 
-[2. Hadoop 笔记](https://docs.duoduo.center/%23/14.%20分布式文件存储系统/Hadoop.md)
+[2. Hadoop 笔记](https://docs.duoduo.center/#/14.%20分布式文件存储系统/Hadoop.md)
 
 ## TODO
 
