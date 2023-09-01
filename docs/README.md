@@ -36,15 +36,17 @@ To Be Continued ...
 
 ### 前端
 
-[1. HTML 笔记](https://duoduo.center/HTML.md)
+[1. HTML 笔记](https://docs.duoduo.center/#/15.%20前端/前端三剑客/1.%20HTML.md)
 
-[2. CSS 笔记](https://duoduo.center/CSS.md)
+[2. CSS 笔记](https://docs.duoduo.center/#/15.%20前端/前端三剑客/2.%20CSS.md)
 
-[3. JavaScript 笔记](https://duoduo.center/JavaScript.md)
+[3. JavaScript 笔记](https://docs.duoduo.center/#/15.%20前端/前端三剑客/3.%20JavaScript.md)
 
-[4. 移动端 笔记](https://duoduo.center/移动端.md)
+[4. 移动端 笔记](https://docs.duoduo.center/#/15.%20前端/前端三剑客/4.%20移动端.md)
 
-[5. Ajax 笔记](https://duoduo.center/Ajax.md)
+[5. Ajax 笔记](https://docs.duoduo.center/#/15.%20前端/前端三剑客/5.%20Ajax.md)
+
+[6. Node.js 笔记](https://docs.duoduo.center/#/15.%20前端/前端三剑客/6.%20Node.js.md)
 
 To Be Continued ... 
 
@@ -123,7 +125,7 @@ To Be Continued ...
 - ~~HTML~~
 - ~~CSS~~
 - ~~JS~~
-- Ajax
+- ~~Ajax~~
 - Node.js
 - TypeScript
 - Vue
