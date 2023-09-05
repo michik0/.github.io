@@ -48,6 +48,8 @@ To Be Continued ...
 
 [6. Node.js 笔记](https://docs.duoduo.center/#/15.%20前端/前端三剑客/6.%20Node.js.md)
 
+[7. Node.js 笔记](https://docs.duoduo.center/#/15.%20前端/前端三剑客/7.%20Vue.md)
+
 To Be Continued ... 
 
 ### 后端
@@ -126,8 +128,8 @@ To Be Continued ...
 - ~~CSS~~
 - ~~JS~~
 - ~~Ajax~~
-- Node.js
-- TypeScript
+- ~~Node.js~~
 - Vue
+- TypeScript
 - Uniapp
 - Mybatis-Flex
