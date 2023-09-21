@@ -129,7 +129,7 @@ To Be Continued ...
 - ~~JS~~
 - ~~Ajax~~
 - ~~Node.js~~
-- Vue
+- ~~Vue~~
 - TypeScript
 - Uniapp
 - Mybatis-Flex
